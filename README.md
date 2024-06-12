@@ -6,8 +6,11 @@ Thank you for your time and efforts.
 
 🌏 https://buildh3rjune-fjl8301xv-dolvin17s-projects.vercel.app/
 
-## Here is the tx on polygon ZKVM Cardona
+## Here is the tx contract created on polygon ZKVM Cardona
 🌏 https://cardona-zkevm.polygonscan.com/tx/0x4bdf4e82c4b79ad4d836ced2fbdee1b4e3c933dfb47acc5547863310f6e7460c ✅ 
+
+## Here us the tx of interaction using the chat:
+🌏 https://cardona-zkevm.polygonscan.com/tx/0x0aed424d9d14d9d935a5df7fb01320150a564fedc1a7a4720d91f2c61316f5bb
 
 ## The main process:
 
@@ -20,3 +23,6 @@ Thank you for your time and efforts.
 <img width="1508" alt="Pasted Graphic 2" src="https://github.com/dolvin17/buildh3r_june_polygon_ZKVM/assets/101130252/8f07bf26-2205-4af6-b50a-4811ba35e18d">
 
 <img width="1382" alt="Pasted Graphic 3" src="https://github.com/dolvin17/buildh3r_june_polygon_ZKVM/assets/101130252/bd649d6e-1ebd-4f30-835c-40b95718c58a">
+
+<img width="1434" alt="image" src="https://github.com/dolvin17/buildh3r_june_polygon_ZKVM/assets/101130252/3f3d7397-300a-4371-b3b4-20eaeddc0131">
+
