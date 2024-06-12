@@ -1,5 +1,5 @@
 # This repository contains a polygon ZKVM dapp, also tx of deployed contract, and the url to vercel for check this.
-## it was builded attending BUILDH3R - June edition -  | Interactive Learn & Earn Workshops
+it was builded attending BUILDH3R - June edition -  | Interactive Learn & Earn Workshops
 ## Thank you for your time and efforts.
 
 ## Here is the url to vercel:
